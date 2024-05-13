@@ -10,6 +10,6 @@ I'm interested in Working in fields with large sets of data to hone my skills in
 
 I have spent the most time working with Python and C/C++, with strong knowledge of Google App Scripts when it comes to its applications in Google Sheets and augments the sheet with more advanced functionality than is offered in the base widgets.
 
-I can be contacted best through my main email: olivertwister24680@gmail.com
+I can be contacted best through my main email: olivertwister24680@gmail.com, or my work email: oliverlondon82@gmail.com
 
 LinkedIn: www.linkedin.com/in/OliverLondon
